@@ -4,7 +4,7 @@ verson 1 due: Apr 18, 2020. Version 2....
 
 https://mybinder.org/v2/gh/aayancheng/HighSchoolDataScience/Master
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aayancheng/HighSchoolDataScience/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aayancheng/HighSchoolDataScience/Master)
 
 ## [1. See the data](https://github.com/aayancheng/HighSchoolDataScience/blob/Master/Seethedata_DataVisualization.ipynb)
 * Gap Minder: https://demo.bokeh.org/gapminder
