@@ -13,15 +13,14 @@ https://mybinder.org/v2/gh/aayancheng/HighSchoolDataScience/Master
   * Seaborn: https://www.datacamp.com/courses/data-visualization-with-seaborn
   * Bokeh: https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh
   
-  https://github.com/aayancheng/HighSchoolDataScience/blob/Master/Guessthenumber_tensorflow.ipynb
-
+ 
 ## [2. Simple predictive model on numerical data](https://github.com/aayancheng/HighSchoolDataScience/blob/Master/HousePrice_LinearRegression.ipynb)
 * Linear Regression:
 * Logistic Regression: 
 * Paid courses:
   * Predicting Credit Card Approvals: https://www.datacamp.com/projects/558
 
-## [3. Machine learning model on non-numercial data](https://github.com/aayancheng/HighSchoolDataScience/blob /Master/Guessthenumber_tensorflow.ipynb)
+## [3. Machine learning model on non-numercial data](https://github.com/aayancheng/HighSchoolDataScience/blob/Master/Guessthenumber_tensorflow.ipynb)
 * MNIST Images (https://www.tensorflow.org/overview/)
   * Fashion MNIST: https://towardsdatascience.com/mnist-cnn-python-c61a5bce7a19
 * Paid Courses:
