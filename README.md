@@ -6,20 +6,22 @@ https://mybinder.org/v2/gh/aayancheng/HighSchoolDataScience/Master
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aayancheng/HighSchoolDataScience/master)
 
-## [1. See the data](https://github.com/aayancheng/HighSchoolDataScience/Seethedata_DataVisualization.ipynb)
+## [1. See the data](https://github.com/aayancheng/HighSchoolDataScience/blob/Master/Seethedata_DataVisualization.ipynb)
 * Gap Minder: https://demo.bokeh.org/gapminder
 * Kaggle Data: https://www.kaggle.com/datasets?sort=votes
 * Paid courses:
   * Seaborn: https://www.datacamp.com/courses/data-visualization-with-seaborn
   * Bokeh: https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh
+  
+  https://github.com/aayancheng/HighSchoolDataScience/blob/Master/Guessthenumber_tensorflow.ipynb
 
-## [2. Simple predictive model on numerical data](https://github.com/aayancheng/HighSchoolDataScience/HousePrice_LinearRegression.ipynb)
+## [2. Simple predictive model on numerical data](https://github.com/aayancheng/HighSchoolDataScience/blob/Master/HousePrice_LinearRegression.ipynb)
 * Linear Regression:
 * Logistic Regression: 
 * Paid courses:
   * Predicting Credit Card Approvals: https://www.datacamp.com/projects/558
 
-## [3. Machine learning model on non-numercial data](https://github.com/aayancheng/HighSchoolDataScience/Guessthenumber_tensorflow.ipynb))
+## [3. Machine learning model on non-numercial data](https://github.com/aayancheng/HighSchoolDataScience/blob /Master/Guessthenumber_tensorflow.ipynb))
 * MNIST Images (https://www.tensorflow.org/overview/)
   * Fashion MNIST: https://towardsdatascience.com/mnist-cnn-python-c61a5bce7a19
 * Paid Courses:
