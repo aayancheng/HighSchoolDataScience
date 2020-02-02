@@ -21,7 +21,7 @@ https://mybinder.org/v2/gh/aayancheng/HighSchoolDataScience/Master
 * Paid courses:
   * Predicting Credit Card Approvals: https://www.datacamp.com/projects/558
 
-## [3. Machine learning model on non-numercial data](https://github.com/aayancheng/HighSchoolDataScience/blob /Master/Guessthenumber_tensorflow.ipynb))
+## [3. Machine learning model on non-numercial data](https://github.com/aayancheng/HighSchoolDataScience/blob /Master/Guessthenumber_tensorflow.ipynb)
 * MNIST Images (https://www.tensorflow.org/overview/)
   * Fashion MNIST: https://towardsdatascience.com/mnist-cnn-python-c61a5bce7a19
 * Paid Courses:
