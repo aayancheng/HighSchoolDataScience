@@ -1,23 +1,23 @@
 # High School Data Science
 A repo for teaching data science to high school students
-verson 1 due: Apr 18, 2020
+verson 1 due: Apr 18, 2020. Version 2....
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aayancheng/HighSchoolDataScience/master)
 
-## [Chapter 1: See the data](https://github.com/aayancheng/HighSchoolDataScience/tree/master/Chapter1)
+## [1. See the data](https://github.com/aayancheng/HighSchoolDataScience/Seethedata_DataVisualization.ipynb)
 * Gap Minder: https://demo.bokeh.org/gapminder
 * Kaggle Data: https://www.kaggle.com/datasets?sort=votes
 * Paid courses:
   * Seaborn: https://www.datacamp.com/courses/data-visualization-with-seaborn
   * Bokeh: https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh
 
-## Chapter 2: Simple predictive model on numerical data
-* Linear Regression
-* Logistic Regression
+## [2. Simple predictive model on numerical data](https://github.com/aayancheng/HighSchoolDataScience/HousePrice_LinearRegression.ipynb)
+* Linear Regression:
+* Logistic Regression: 
 * Paid courses:
   * Predicting Credit Card Approvals: https://www.datacamp.com/projects/558
 
-## Chapter 3: Machine learning model on non-numercial data
+## [3. Machine learning model on non-numercial data](https://github.com/aayancheng/HighSchoolDataScience/Guessthenumber_tensorflow.ipynb))
 * MNIST Images (https://www.tensorflow.org/overview/)
   * Fashion MNIST: https://towardsdatascience.com/mnist-cnn-python-c61a5bce7a19
 * Paid Courses:

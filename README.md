@@ -1,6 +1,6 @@
 # High School Data Science
 A repo for teaching data science to high school students
-verson 1 due: Apr 18, 2020
+verson 1 due: Apr 18, 2020. Version 2....
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aayancheng/HighSchoolDataScience/master)
 
