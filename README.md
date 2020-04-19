@@ -2,6 +2,7 @@
 A repo for teaching data science to high school students
 verson 1: Apr 18, 2020. 
 https://github.com/aayancheng/HighSchoolDataScience
+(Video introduction: https://www.youtube.com/watch?v=LRQ9Wjkf3Ts&feature=youtu.be)
 
 There are 3 notebooks (about 30 mins each):
 1. [See the Data](https://github.com/aayancheng/HighSchoolDataScience/blob/Master/Seethedata_DataVisualization.ipynb)
